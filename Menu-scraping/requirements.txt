@@ -1,0 +1,5 @@
+requests
+beauitfulsoup4
+selenuim
+webdriver-manager
+python 3.11

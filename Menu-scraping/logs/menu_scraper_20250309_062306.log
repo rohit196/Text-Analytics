@@ -1,0 +1,29 @@
+2025-03-09 06:33:00,007 - INFO - Successfully initialized fake_useragent
+2025-03-09 06:33:00,013 - INFO - ====== WebDriver manager ======
+2025-03-09 06:33:00,028 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-09 06:33:00,052 - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_linux64.zip
+2025-03-09 06:33:00,065 - INFO - Driver downloading response is 200
+2025-03-09 06:33:00,107 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-09 06:33:00,241 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-09 06:33:00,260 - INFO - Driver has been saved in cache [/home/codespace/.wdm/drivers/chromedriver/linux64/114.0.5735.90]
+2025-03-09 06:33:00,280 - ERROR - Error setting up WebDriver: Message: unknown error: cannot find Chrome binary
+Stacktrace:
+#0 0x5e65e4bde4e3 <unknown>
+#1 0x5e65e490dc76 <unknown>
+#2 0x5e65e4934757 <unknown>
+#3 0x5e65e4933029 <unknown>
+#4 0x5e65e4971ccc <unknown>
+#5 0x5e65e497147f <unknown>
+#6 0x5e65e4968de3 <unknown>
+#7 0x5e65e493e2dd <unknown>
+#8 0x5e65e493f34e <unknown>
+#9 0x5e65e4b9e3e4 <unknown>
+#10 0x5e65e4ba23d7 <unknown>
+#11 0x5e65e4bacb20 <unknown>
+#12 0x5e65e4ba3023 <unknown>
+#13 0x5e65e4b711aa <unknown>
+#14 0x5e65e4bc76b8 <unknown>
+#15 0x5e65e4bc7847 <unknown>
+#16 0x5e65e4bd7243 <unknown>
+#17 0x7bb7dfab7609 start_thread
+

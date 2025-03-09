@@ -1,0 +1,1 @@
+2025-03-09 06:27:28,503 - ERROR - Error setting up WebDriver: 'MenuScraper' object has no attribute 'user_agent'

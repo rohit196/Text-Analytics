@@ -1,0 +1,129 @@
+2025-03-09 06:11:32,603 - ERROR - Error setting up WebDriver: 'MenuScraper' object has no attribute 'user_agent'
+2025-03-09 06:12:18,482 - INFO - ====== WebDriver manager ======
+2025-03-09 06:12:18,498 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-09 06:12:18,518 - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_linux64.zip
+2025-03-09 06:12:18,531 - INFO - Driver downloading response is 200
+2025-03-09 06:12:18,574 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-09 06:12:18,699 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-09 06:12:18,718 - INFO - Driver has been saved in cache [/home/codespace/.wdm/drivers/chromedriver/linux64/114.0.5735.90]
+2025-03-09 06:12:18,801 - ERROR - Error setting up WebDriver: Message: unknown error: cannot find Chrome binary
+Stacktrace:
+#0 0x5850386644e3 <unknown>
+#1 0x585038393c76 <unknown>
+#2 0x5850383ba757 <unknown>
+#3 0x5850383b9029 <unknown>
+#4 0x5850383f7ccc <unknown>
+#5 0x5850383f747f <unknown>
+#6 0x5850383eede3 <unknown>
+#7 0x5850383c42dd <unknown>
+#8 0x5850383c534e <unknown>
+#9 0x5850386243e4 <unknown>
+#10 0x5850386283d7 <unknown>
+#11 0x585038632b20 <unknown>
+#12 0x585038629023 <unknown>
+#13 0x5850385f71aa <unknown>
+#14 0x58503864d6b8 <unknown>
+#15 0x58503864d847 <unknown>
+#16 0x58503865d243 <unknown>
+#17 0x78f1cfc60609 start_thread
+
+2025-03-09 06:17:39,366 - INFO - Chrome binary not found in common locations, installing Chrome...
+2025-03-09 06:17:39,503 - INFO - ====== WebDriver manager ======
+2025-03-09 06:17:39,517 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-09 06:17:39,534 - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_linux64.zip
+2025-03-09 06:17:39,547 - INFO - Driver downloading response is 200
+2025-03-09 06:17:39,586 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-09 06:17:39,719 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-09 06:17:39,740 - INFO - Driver has been saved in cache [/home/codespace/.wdm/drivers/chromedriver/linux64/114.0.5735.90]
+2025-03-09 06:17:39,758 - ERROR - Error setting up WebDriver: Message: unknown error: no chrome binary at /usr/bin/google-chrome-stable
+Stacktrace:
+#0 0x56eaae0734e3 <unknown>
+#1 0x56eaadda2c76 <unknown>
+#2 0x56eaaddc95e0 <unknown>
+#3 0x56eaaddc8029 <unknown>
+#4 0x56eaade06ccc <unknown>
+#5 0x56eaade0647f <unknown>
+#6 0x56eaaddfdde3 <unknown>
+#7 0x56eaaddd32dd <unknown>
+#8 0x56eaaddd434e <unknown>
+#9 0x56eaae0333e4 <unknown>
+#10 0x56eaae0373d7 <unknown>
+#11 0x56eaae041b20 <unknown>
+#12 0x56eaae038023 <unknown>
+#13 0x56eaae0061aa <unknown>
+#14 0x56eaae05c6b8 <unknown>
+#15 0x56eaae05c847 <unknown>
+#16 0x56eaae06c243 <unknown>
+#17 0x72dbd2847609 start_thread
+
+2025-03-09 06:19:10,156 - INFO - ChromeType not available, falling back to manual detection
+2025-03-09 06:19:10,156 - INFO - Chrome binary not found in common locations, installing Chrome...
+2025-03-09 06:19:10,180 - WARNING - Could not locate Chrome binary explicitly. Trying default configuration.
+2025-03-09 06:19:10,181 - ERROR - Error setting up WebDriver: cannot access local variable 'ChromeDriverManager' where it is not associated with a value
+2025-03-09 06:22:23,533 - INFO - ====== WebDriver manager ======
+2025-03-09 06:22:23,548 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-09 06:22:23,563 - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_linux64.zip
+2025-03-09 06:22:23,576 - INFO - Driver downloading response is 200
+2025-03-09 06:22:23,619 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-09 06:22:23,752 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-09 06:22:23,772 - INFO - Driver has been saved in cache [/home/codespace/.wdm/drivers/chromedriver/linux64/114.0.5735.90]
+2025-03-09 06:22:23,792 - ERROR - Error setting up WebDriver: Message: unknown error: cannot find Chrome binary
+Stacktrace:
+#0 0x573a74a9e4e3 <unknown>
+#1 0x573a747cdc76 <unknown>
+#2 0x573a747f4757 <unknown>
+#3 0x573a747f3029 <unknown>
+#4 0x573a74831ccc <unknown>
+#5 0x573a7483147f <unknown>
+#6 0x573a74828de3 <unknown>
+#7 0x573a747fe2dd <unknown>
+#8 0x573a747ff34e <unknown>
+#9 0x573a74a5e3e4 <unknown>
+#10 0x573a74a623d7 <unknown>
+#11 0x573a74a6cb20 <unknown>
+#12 0x573a74a63023 <unknown>
+#13 0x573a74a311aa <unknown>
+#14 0x573a74a876b8 <unknown>
+#15 0x573a74a87847 <unknown>
+#16 0x573a74a97243 <unknown>
+#17 0x7af78757c609 start_thread
+
+2025-03-09 06:22:23,793 - ERROR - Traceback (most recent call last):
+  File "/tmp/ipykernel_48584/3134812437.py", line 38, in setup_driver
+    self.driver = webdriver.Chrome(service=service, options=chrome_options)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/selenium/webdriver/chrome/webdriver.py", line 45, in __init__
+    super().__init__(
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/selenium/webdriver/chromium/webdriver.py", line 66, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 250, in __init__
+    self.start_session(capabilities)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 342, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: cannot find Chrome binary
+Stacktrace:
+#0 0x573a74a9e4e3 <unknown>
+#1 0x573a747cdc76 <unknown>
+#2 0x573a747f4757 <unknown>
+#3 0x573a747f3029 <unknown>
+#4 0x573a74831ccc <unknown>
+#5 0x573a7483147f <unknown>
+#6 0x573a74828de3 <unknown>
+#7 0x573a747fe2dd <unknown>
+#8 0x573a747ff34e <unknown>
+#9 0x573a74a5e3e4 <unknown>
+#10 0x573a74a623d7 <unknown>
+#11 0x573a74a6cb20 <unknown>
+#12 0x573a74a63023 <unknown>
+#13 0x573a74a311aa <unknown>
+#14 0x573a74a876b8 <unknown>
+#15 0x573a74a87847 <unknown>
+#16 0x573a74a97243 <unknown>
+#17 0x7af78757c609 start_thread
+
+
